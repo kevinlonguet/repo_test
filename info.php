@@ -6,5 +6,7 @@
  * Time: 14:46
  */
 
+$i = 2+2+2;
 phpinfo();
 echo $x;
+echo $i;
