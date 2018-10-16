@@ -1,0 +1,5 @@
+<?php
+
+  echo "Ceci est du texte"; 
+
+?>
