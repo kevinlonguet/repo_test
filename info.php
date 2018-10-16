@@ -1,3 +1,4 @@
+
   <?php echo 'Si vous voulez intégrez du code PHP dans des documents XHTML ou XML, utilisez ces balises'; ?>
 
 2.  Vous pouvez utiliser la balise courte pour <?= 'écrire ce texte' ?>.
@@ -16,3 +17,16 @@
 5.  <% echo 'Vous pouvez optionnellement utiliser les balises ASP-style'; %>
     Le code suivant <%= $variable; %> est un raccourci pour <% echo $variable; %> 
     Ces deux syntaxes sont retirées de PHP 7.0.0
+  
+<?php
+/**
+ * Created by PhpStorm.
+ * User: maxime$x = 5 /* + 15 */ + 5;
+ * Date: 16/10/2018
+ * Time: 14:46
+ */
+
+$i = 2+2+2;
+phpinfo();
+echo $x;
+echo $i;
